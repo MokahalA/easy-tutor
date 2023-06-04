@@ -19,4 +19,4 @@
 ### Features
 
 - View tutoring services available for all subjects and their prices.
-- Booking forms for booking a time slot with a tutor. 
+- User information forms for booking a time slot with a tutor. 
