@@ -24,11 +24,11 @@
 ### Screens
 
 <p float="left">
-  <img src="Screenshots/Home.png" width="300" />
-  <img src="Screenshots/Courses.png" width="300" />
+  <img src="Screenshots/Home.png" height= "320" width="320" />
+  <img src="Screenshots/HomeworkHelp.png" height= "320" width="320" />
 </p>
 
 <p float="left">
-  <img src="Screenshots/MathTutors.png" width="300" />
-  <img src="Screenshots/HomeworkHelp.png" width="300" />
+  <img src="Screenshots/MathTutors.png" height= "320" width="320"/>\
+  <img src="Screenshots/Courses.png" height= "320" width="320"/>
 </p>
