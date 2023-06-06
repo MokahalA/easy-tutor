@@ -25,10 +25,10 @@
 
 <p float="left">
   <img src="Screenshots/Home.png" height= "320" width="380"/>
-  <img src="Screenshots/HomeworkHelp.png" height= "320" width="380" />
+  <img src="Screenshots/Courses.png" width="380" />
 </p>
 
 <p float="left">
   <img src="Screenshots/MathTutors.png" height= "320" width="380"/>
-  <img src="Screenshots/Courses.png" width="380" />
+  <img src="Screenshots/HomeworkHelp.png" height= "320" width="380" />
 </p>
