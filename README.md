@@ -30,5 +30,5 @@
 
 <p float="left">
   <img src="Screenshots/MathTutors.png" height= "320" width="380"/>
-  <img src="Screenshots/Courses.png" />
+  <img src="Screenshots/Courses.png" width="380" />
 </p>
