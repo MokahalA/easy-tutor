@@ -29,6 +29,6 @@
 </p>
 
 <p float="left">
-  <img src="Screenshots/MathTutors.png" height= "320" width="380"/>\
-  <img src="Screenshots/Courses.png" height= "320" width="380"/>
+  <img src="Screenshots/MathTutors.png" height= "320" width="380"/>
+  <img src="Screenshots/Courses.png" />
 </p>
